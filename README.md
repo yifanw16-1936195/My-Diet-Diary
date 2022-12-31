@@ -4,10 +4,10 @@ A full-featured interactive web application in HTML, CSS and React JS that keeps
 Link to the hosted website: https://my-diet-diary.web.app
 
 ### Credit - INFO 340 Group A6
-### Yifan Wang - UI/UX Designer, Front-end Developer
-### Kelly Wang - Data Analyst, Back-end Developer
-### Jeffrey Qiu - Full-stack Developer
-### Wen Chen - UI/UX Designer
+#### Yifan Wang - UI/UX Designer, Front-end Developer
+#### Kelly Wang - Data Analyst, Back-end Developer
+#### Jeffrey Qiu - Full-stack Developer
+#### Wen Chen - UI/UX Designer
 
 ## Descrption 
 MyDietDiary is our team project for the course INFO 340 - Web Programming.  
